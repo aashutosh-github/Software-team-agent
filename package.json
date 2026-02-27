@@ -1,0 +1,6 @@
+{
+  "name": "software-team-agent",
+  "module": "index.js",
+  "type": "module",
+  "private": true
+}
